@@ -1,4 +1,4 @@
-# Restaurant_Management_System
+# University_Management_System
 Group Project
 
 Subject: Object Oriented Programming
